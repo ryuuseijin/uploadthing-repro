@@ -15,7 +15,7 @@ To reproduce the error run the following command:
 
     npm run build
 
-The process will exist with the following error:
+The process will exit with the following error:
 
     ...
     Linting and checking validity of types  .Maximum call stack size exceeded
