@@ -21,4 +21,4 @@ There are three changes that make the error go away:
 
 1. remove the line containing `distDir: 'build'` from `next.config.js`
 3. remove `withSentryConfig` from `next.config.js`
-4. change `@uploadthing/react": "^7.0.2"` to `@uploadthing/react ": "^6.8.0"` in `package.json` (and run `npm i`)
+4. change `@uploadthing/react": "^7.0.2"` to `@uploadthing/react": "^6.8.0"` in `package.json` (and run `npm i`)
