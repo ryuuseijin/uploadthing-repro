@@ -17,7 +17,7 @@ The process will exist with the following error:
 
 ## Make the error go away
 
-There are three changes that make the error go away:
+There are three changes, any one of which will make the error go away:
 
 1. remove the line containing `distDir: 'build'` from `next.config.js`
 3. remove `withSentryConfig` from `next.config.js`
